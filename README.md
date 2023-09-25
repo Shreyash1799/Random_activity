@@ -1,6 +1,6 @@
 # Random_activity
 
-Get an activity from 1 to 4 people to do from different domains.
+Get an activity for 1 to 4 people to do from different domains.
 
 1. "npm install"
 2. Check to install any extra dependecies if hadn't already done from step 1 from package.json file. 
